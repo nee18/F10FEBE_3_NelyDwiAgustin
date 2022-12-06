@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: block;
+    background-image: url("https://cdn.keepo.me/images/post/lists/2019/04/30/main-list-image-bdab7c26-6848-4c3b-b228-5b79ece54935-10.jpg");
+  }
+  
+  main {
+    display: block;
+  }
+  
+  app-bar {
+    display: block;
+  }
+  
+  footer-bar {
+    display: block;
+  }
